@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jake321southall, a recent theoretical physics PhD graduate.
 - 👀 I’m interested in data science, physics, and coding!
 - 🌱 I’m currently learning machine learning and other data science tools.
-- 💞️ I’ll be uploading my own data science projects and any comments would be appreciated!
+- 💞️ I’ll be uploading my own projects and any comments would be appreciated!
 - 📫 How to reach me: jake321southall@aol.com.
 
 <!---
